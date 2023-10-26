@@ -5,7 +5,7 @@ import { Outlet } from 'react-router-dom'
 const Home = () => {
   return (
     <div>
-        home
+        this is my Home
       <Nav />
       <Outlet/>
     </div>
